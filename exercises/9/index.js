@@ -1,2 +1,2 @@
 const li = document.querySelectorAll("li")
-li.forEach(li => li.className = 'corgi-queen')
+li.forEach(li => li.classList.add = 'corgi-queen')
