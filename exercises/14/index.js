@@ -1,2 +1,2 @@
 const body = document.querySelector("body")
-console.log(body.innerText)
+console.log(body)

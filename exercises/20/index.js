@@ -1,2 +1,2 @@
-const img = document.querySelector("img").src
+const img = document.querySelector("img")
 console.log(img)
